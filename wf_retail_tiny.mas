@@ -1,4 +1,4 @@
-$ Copyright (c) Information Builders, Inc. All rights reserved. @MFSM_NOPROLOG@ $
+$ Copyright (c) Inc. All rights reserved. @MFSM_NOPROLOG@ $
 FILENAME=WF_RETAIL_TINY, TRANS_FILE=_EDAHOME/NLS/dt,
  REMARKS='WFR Tiny Fact/Dim Cluster', BV_NAMESPACE=OFF, $
   SEGMENT=WF_RETAIL_SALES, PARENT=., CRFILE=ibisamp/wf_retail_demo/facts/wf_retail_sales, CRINCLUDE=ALL,
